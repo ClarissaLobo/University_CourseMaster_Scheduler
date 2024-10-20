@@ -1,0 +1,12 @@
+Student 112 didnt get course H due to the Time conflict with course E
+Student 113 didnt get course H due to the Time conflict with course E
+Student 114 didnt get course A due to the Time conflict with course D
+Student 115 didnt get course E due to the Time conflict with course H
+Student 117 didnt get course D due to the Time conflict with course A
+Student 121 didnt get course H due to the Time conflict with course E
+Student 128 didnt get course C due to the Time conflict with course G
+Student 133 didnt get course H due to the Time conflict with course E
+Student 136 didnt get course A due to the Time conflict with course D
+Student 137 didnt get course C due to the Time conflict with course G
+Student 142 didnt get course D due to the Time conflict with course A
+Student 147 didnt get course A due to the Time conflict with course D

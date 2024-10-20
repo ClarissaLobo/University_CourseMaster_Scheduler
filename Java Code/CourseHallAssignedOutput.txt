@@ -1,0 +1,8 @@
+CourseName: DAA
+LectureHall: 1
+CourseName: DP
+LectureHall: 1
+CourseName: DB
+LectureHall: 0
+CourseName: OS
+LectureHall: 1
